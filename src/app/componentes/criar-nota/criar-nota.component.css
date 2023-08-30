@@ -1,0 +1,31 @@
+.criarNota {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.nota {
+  display: flex;
+  padding: 13px 516px 12px 76px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 254px;
+}
+.inputNota{
+  margin-top: 120px;
+  border-radius: 10px;
+  background: #1D1D1D;
+  box-shadow: 0px 4px 4px 2px rgba(218, 218, 218, 0.24);
+  width: 650px;
+  height: 40px;
+  align-items: center;
+  color: white;
+  height: 300px;
+}
+::placeholder {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #888;
+  font-size: 24px;
+  text-align: start;
+}
